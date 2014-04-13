@@ -39,8 +39,10 @@
 				das quais envolvidas também com o desenvolvimento de sistemas para o DoD e outros órgãos do governo Americano.</br>
 			Isto levou o próprio DoD a adotar algumas práticas comerciais e eventualmente uni-las com seus padrões, gerando assim o </br>
 			padrão IEEE/IEA 12207. Um outro padrão a respeito é o IEEE 828-1983.</p></br>
-			<h2>Conceitos e Terminologia<h2></br>
-			
+			<h2>Conceitos e Tecminologia<h2></br>
+			 <p>A terminologia especifica da GCS, como também sua história, tem dado origem a controvérsias, de freqüentes variações.</br>
+			  Ferramentas vendidas como também acadêmicas tiraram vantagem disto para deliberadamente mudar  a terminologia ou procedimentos para reduzir</br>
+			  
 
 
 
