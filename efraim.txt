@@ -1,10 +1,16 @@
-<html>
+<!DOCTYPE HTML>
+<html lang="pt-br">
 <head>
+		<meta charset="UTF-8"/>
 	<title>Trabalho Pratico 01</title>
+	<link rel="stylesheet" type="text/css" href="_css/estilo.css">
 </head>
-<body align="center">
-
+<body >
+		<div id="interface">
+			<header id="cabecalho">
+        <hgroup>
 			<h1>Gestão de Configuração e Gestão de Versões<h1></br>
+		</hgroup>
 			<p>Gerência de Configuração de Software, Gerência de Configuração ou ainda Gestão de Configuração de Software </br>
 			é uma área da engenharia de software responsável por fornecer o apoio para o desenvolvimento de software.</br>
 			Suas principais atribuições são o controle de versão, o controle de mudança e a auditoria das configurações.</p></br>
