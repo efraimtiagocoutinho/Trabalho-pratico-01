@@ -3,6 +3,7 @@
 	<title>Trabalho Pratico 01</title>
 </head>
 <body align="center">
+
 			<h1>Gestão de Configuração e Gestão de Versões<h1></br>
 			<p>Gerência de Configuração de Software, Gerência de Configuração ou ainda Gestão de Configuração de Software </br>
 			é uma área da engenharia de software responsável por fornecer o apoio para o desenvolvimento de software.</br>
